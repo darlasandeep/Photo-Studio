@@ -1,3 +1,3 @@
-# Photo-Stu
+# Phot0
 
 abcddddd
