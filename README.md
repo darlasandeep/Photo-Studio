@@ -1,3 +1,3 @@
-# Photo-Studio
+# Photo-Stu
 
 abcddddd
